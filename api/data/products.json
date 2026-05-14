@@ -1,0 +1,340 @@
+{
+  "products": [
+    {
+      "id": "pour-over-kit",
+      "name": "Kit Pour Over din Cupru",
+      "description": "Dripper din cupru lucrat manual, asortat cu un ibric gooseneck pentru extractie de precizie.",
+      "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=600&h=400&q=80",
+      "reviews": [
+        {
+          "id": "pour-over-review-1",
+          "text": "Arata superb pe blat si scoate cesti curate de fiecare data.",
+          "rating": 5,
+          "createdAt": "2024-01-12T08:15:00.000Z"
+        },
+        {
+          "id": "pour-over-review-2",
+          "text": "Frumos, dar capacul ibricului se incinge un pic.",
+          "rating": 3,
+          "createdAt": "2024-02-03T17:45:00.000Z"
+        }
+      ],
+      "price": 450
+    },
+    {
+      "id": "espresso-scale",
+      "name": "Cantar Espresso Nano",
+      "description": "Cantar reincarcabil cu acuratete 0.1g si timer de tare automat.",
+      "image": "https://images.unsplash.com/photo-1511920170033-f8396924c348?auto=format&fit=crop&w=600&h=400&q=80",
+      "reviews": [
+        {
+          "id": "espresso-scale-review-1",
+          "text": "Ma ajuta sa-mi reglez espresso-ul consistent in fiecare dimineata.",
+          "rating": 5,
+          "createdAt": "2024-03-19T11:05:00.000Z"
+        }
+      ],
+      "price": 320
+    },
+    {
+      "id": "cold-brew-bottle",
+      "name": "Sticla Cold Brew",
+      "description": "Sticla din borosilicat 1L cu filtru inox reutilizabil pentru cold brew fin.",
+      "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=600&h=400&q=80",
+      "reviews": [
+        {
+          "id": "cold-brew-review-1",
+          "text": "Suficient concentrat pentru o saptamana, foarte usor de curatat.",
+          "rating": 4,
+          "createdAt": "2024-04-28T09:30:00.000Z"
+        },
+        {
+          "id": "cold-brew-review-2",
+          "text": "Mi-as fi dorit garnituri de schimb in pachet.",
+          "rating": 3,
+          "createdAt": "2024-04-30T13:20:00.000Z"
+        }
+      ],
+      "price": 150
+    },
+    {
+      "id": "walnut-tamper",
+      "name": "Tamper cu Maner din Nuc",
+      "description": "Baza inox de 58.5mm cu maner strunjit manual din nuc, pentru un puck uniform.",
+      "image": "https://images.unsplash.com/photo-1442550528053-c431ecb55509?auto=format&fit=crop&w=600&h=400&q=80",
+      "reviews": [
+        {
+          "id": "walnut-tamper-review-1",
+          "text": "Greutate echilibrata, intra perfect in cosurile VST.",
+          "rating": 5,
+          "createdAt": "2024-03-02T10:10:00.000Z"
+        }
+      ],
+      "price": 180
+    },
+    {
+      "id": "magnetic-milk-frother",
+      "name": "Spumant de Lapte Magnetic",
+      "description": "Spumant USB-C reincarcabil, cu tel magnetic in doua trepte pentru microfoam catifelat.",
+      "image": "https://images.unsplash.com/photo-1497935586351-b67a49e012bf?auto=format&fit=crop&w=600&h=400&q=80",
+      "reviews": [
+        {
+          "id": "magnetic-frother-review-1",
+          "text": "Excelent pentru flat white rapid cand sar peste duza de aburi.",
+          "rating": 4,
+          "createdAt": "2024-05-05T07:45:00.000Z"
+        },
+        {
+          "id": "magnetic-frother-review-2",
+          "text": "Bateria tine o saptamana de uz zilnic.",
+          "rating": 5,
+          "createdAt": "2024-05-12T18:00:00.000Z"
+        }
+      ],
+      "price": 95
+    },
+    {
+      "id": "vacuum-travel-mug",
+      "name": "Cana Termica cu Vid",
+      "description": "Cana 350ml etansa, cu interior ceramic care pastreaza aroma cafelei.",
+      "image": "https://images.unsplash.com/photo-1559056199-641a0ac8b55e?auto=format&fit=crop&w=600&h=400&q=80",
+      "reviews": [
+        {
+          "id": "vacuum-travel-mug-review-1",
+          "text": "Imi pastreaza pour over-ul cald in drum spre munca, fara gust metalic.",
+          "rating": 5,
+          "createdAt": "2024-02-22T08:05:00.000Z"
+        }
+      ],
+      "price": 120
+    },
+    {
+      "id": "canvas-barista-apron",
+      "name": "Sort Barista din Panza Cerata",
+      "description": "Sort din panza cerata, cu bretele din piele si buzunare pentru scule. Pentru baruri active.",
+      "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=600&h=400&q=80",
+      "reviews": [
+        {
+          "id": "canvas-apron-review-1",
+          "text": "Respinge petele, iar bretelele in cruce imi salveaza gatul.",
+          "rating": 4,
+          "createdAt": "2024-01-30T16:40:00.000Z"
+        }
+      ],
+      "price": 220
+    },
+    {
+      "id": "counter-knock-box",
+      "name": "Knock Box de Bar",
+      "description": "Bara amortizata din cauciuc, cu insertie inox detasabila pentru golire usoara.",
+      "image": "https://images.unsplash.com/photo-1511920170033-f8396924c348?auto=format&fit=crop&w=600&h=400&q=80",
+      "reviews": [
+        {
+          "id": "knock-box-review-1",
+          "text": "Compacta pentru caruciorul meu mic, dar prinde fiecare puck.",
+          "rating": 4,
+          "createdAt": "2024-04-07T14:25:00.000Z"
+        }
+      ],
+      "price": 165
+    },
+    {
+      "id": "folded-filter-pack",
+      "name": "Pachet Filtre Pliate",
+      "description": "Filtre din hartie pre-clatite si pliate pentru drippere V60-02, set de 200 bucati.",
+      "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=600&h=400&q=80",
+      "reviews": [
+        {
+          "id": "filter-pack-review-1",
+          "text": "Bine ca scap de pliat in graba, hartiile au gust neutru.",
+          "rating": 5,
+          "createdAt": "2024-03-15T06:50:00.000Z"
+        }
+      ],
+      "price": 45
+    },
+    {
+      "id": "airtight-bean-canister",
+      "name": "Recipient Etans pentru Boabe",
+      "description": "Recipient din sticla cu vid si calendar pentru urmarirea datei de prajire.",
+      "image": "https://images.unsplash.com/photo-1442550528053-c431ecb55509?auto=format&fit=crop&w=600&h=400&q=80",
+      "reviews": [
+        {
+          "id": "bean-canister-review-1",
+          "text": "Valva face un click placut si tine boabele proaspete mai mult.",
+          "rating": 5,
+          "createdAt": "2024-02-10T12:35:00.000Z"
+        },
+        {
+          "id": "bean-canister-review-2",
+          "text": "Mi-as fi dorit o variabila mai mare, pentru pungi de 1kg.",
+          "rating": 3,
+          "createdAt": "2024-02-18T21:10:00.000Z"
+        }
+      ],
+      "price": 110
+    },
+    {
+      "id": "espresso-cleaner-tablets",
+      "name": "Tablete Curatare Espresso",
+      "description": "Tablete de backflush care se dizolva rapid si nu lasa reziduuri.",
+      "image": "https://images.unsplash.com/photo-1497935586351-b67a49e012bf?auto=format&fit=crop&w=600&h=400&q=80",
+      "reviews": [
+        {
+          "id": "cleaner-tablets-review-1",
+          "text": "O tableta pe saptamana imi tine grupul impecabil.",
+          "rating": 5,
+          "createdAt": "2024-03-08T19:15:00.000Z"
+        }
+      ],
+      "price": 30
+    },
+    {
+      "id": "smart-gooseneck-kettle",
+      "name": "Ibric Gooseneck Smart",
+      "description": "Ibric Bluetooth de 1200W cu control PID pentru turnari precise.",
+      "image": "https://images.unsplash.com/photo-1559056199-641a0ac8b55e?auto=format&fit=crop&w=600&h=400&q=80",
+      "reviews": [
+        {
+          "id": "smart-kettle-review-1",
+          "text": "Aplicatia ma lasa sa salvez temperaturi de bloom pentru fiecare prajitura.",
+          "rating": 4,
+          "createdAt": "2024-05-01T07:25:00.000Z"
+        },
+        {
+          "id": "smart-kettle-review-2",
+          "text": "Ciocul curge frumos, dar balamaua capacului pare delicata.",
+          "rating": 3,
+          "createdAt": "2024-05-04T15:55:00.000Z"
+        }
+      ],
+      "price": 850
+    },
+    {
+      "id": "cupping-spoon-set",
+      "name": "Set Linguri pentru Cupping",
+      "description": "Doua linguri argintate cu cupa adanca si marcaje gravate pentru cantitate.",
+      "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=600&h=400&q=80",
+      "reviews": [
+        {
+          "id": "cupping-spoon-review-1",
+          "text": "Greutate perfecta, iar marcajele ajuta la flights.",
+          "rating": 5,
+          "createdAt": "2024-01-18T09:55:00.000Z"
+        }
+      ],
+      "price": 95
+    },
+    {
+      "id": "instant-read-thermometer",
+      "name": "Termometru Instant",
+      "description": "Termometru rezistent la apa, cu sonda pivotanta si suport magnetic.",
+      "image": "https://images.unsplash.com/photo-1511920170033-f8396924c348?auto=format&fit=crop&w=600&h=400&q=80",
+      "reviews": [
+        {
+          "id": "thermometer-review-1",
+          "text": "Imi ajunge la 96C pentru bloom la fix de fiecare data.",
+          "rating": 4,
+          "createdAt": "2024-02-06T05:20:00.000Z"
+        }
+      ],
+      "price": 75
+    },
+    {
+      "id": "stainless-puck-screen",
+      "name": "Sita Puck Inox",
+      "description": "Sita din inox 0.2mm pentru dispersie uniforma si group head curat.",
+      "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=600&h=400&q=80",
+      "reviews": [
+        {
+          "id": "puck-screen-review-1",
+          "text": "Asigurare buna impotriva channeling-ului la prajituri light.",
+          "rating": 5,
+          "createdAt": "2024-04-02T06:40:00.000Z"
+        }
+      ],
+      "price": 55
+    },
+    {
+      "id": "dosing-funnel-pro",
+      "name": "Palnie de Dozare Pro",
+      "description": "Palnie magnetica de 58mm care se prinde pe portafiltru, fara dezordine.",
+      "image": "https://images.unsplash.com/photo-1442550528053-c431ecb55509?auto=format&fit=crop&w=600&h=400&q=80",
+      "reviews": [
+        {
+          "id": "dosing-funnel-review-1",
+          "text": "Magnetii se aliniaza imediat si pot face WDT fara sa varsa.",
+          "rating": 5,
+          "createdAt": "2024-03-25T20:50:00.000Z"
+        }
+      ],
+      "price": 130
+    },
+    {
+      "id": "station-drip-mat",
+      "name": "Covoras de Statie",
+      "description": "Covoras din silicon cu santuri ridicate, dimensionat pentru cantare si portafiltre.",
+      "image": "https://images.unsplash.com/photo-1497935586351-b67a49e012bf?auto=format&fit=crop&w=600&h=400&q=80",
+      "reviews": [
+        {
+          "id": "drip-mat-review-1",
+          "text": "Imi protejeaza barul din nuc si se spala usor sub robinet.",
+          "rating": 4,
+          "createdAt": "2024-02-27T11:35:00.000Z"
+        }
+      ],
+      "price": 60
+    },
+    {
+      "id": "double-wall-espresso-glasses",
+      "name": "Pahare Espresso Double-Wall",
+      "description": "Set de doua pahare 90ml din borosilicat care pastreaza shot-urile fierbinti fara sa frigi.",
+      "image": "https://images.unsplash.com/photo-1559056199-641a0ac8b55e?auto=format&fit=crop&w=600&h=400&q=80",
+      "reviews": [
+        {
+          "id": "espresso-glass-review-1",
+          "text": "Crema rezista mai mult fata de cestile mele ceramice.",
+          "rating": 4,
+          "createdAt": "2024-01-05T07:05:00.000Z"
+        }
+      ],
+      "price": 80
+    },
+    {
+      "id": "burr-cleaning-brush",
+      "name": "Perie Curatare Rasnita",
+      "description": "Peri din par de capra pe maner din fag, dimensionati pentru burr-uri plate si conice.",
+      "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=600&h=400&q=80",
+      "reviews": [
+        {
+          "id": "burr-brush-review-1",
+          "text": "Imi tine EK43-ul curat fara sa zgarie burr-urile.",
+          "rating": 5,
+          "createdAt": "2024-04-18T16:05:00.000Z"
+        }
+      ],
+      "price": 25
+    },
+    {
+      "id": "water-mineral-kit",
+      "name": "Kit Minerale pentru Apa",
+      "description": "Pliculete cu doza unica de minerale pentru a construi apa ideala de extractie, in 1L.",
+      "image": "https://images.unsplash.com/photo-1511920170033-f8396924c348?auto=format&fit=crop&w=600&h=400&q=80",
+      "reviews": [
+        {
+          "id": "mineral-kit-review-1",
+          "text": "Aduce claritate la cafelele mele washed din Etiopia, pe apa distilata.",
+          "rating": 5,
+          "createdAt": "2024-05-08T09:00:00.000Z"
+        },
+        {
+          "id": "mineral-kit-review-2",
+          "text": "Mi-as dori pliculete compostabile, in rest perfect.",
+          "rating": 4,
+          "createdAt": "2024-05-09T19:20:00.000Z"
+        }
+      ],
+      "price": 70
+    }
+  ]
+}

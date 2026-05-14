@@ -1,0 +1,28 @@
+# Dependinte
+**/node_modules/
+
+# Build output
+**/dist/
+**/out-tsc/
+**/.angular/
+**/tmp/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Sistem
+.DS_Store
+Thumbs.db
+
+# Loguri
+*.log
+npm-debug.log*
+
+# Variabile mediu
+.env
+.env.local
+
+# Fisiere temporare API
+**/products.json.bak

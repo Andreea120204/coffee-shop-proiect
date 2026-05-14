@@ -1,0 +1,102 @@
+/* Stiluri globale - aplicate la toate componentele */
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  height: 100%;
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  background: #f7f3ee;
+  color: #2b1d14;
+  line-height: 1.5;
+}
+
+a {
+  color: #6f4e37;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+button {
+  cursor: pointer;
+  font-family: inherit;
+  font-size: 0.95rem;
+  border: none;
+  border-radius: 6px;
+  padding: 0.55rem 1.1rem;
+  background: #6f4e37;
+  color: #fff;
+  transition: background 0.2s ease;
+}
+
+button:hover:not(:disabled) {
+  background: #553b2a;
+}
+
+button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+button.secondary {
+  background: transparent;
+  color: #6f4e37;
+  border: 1px solid #6f4e37;
+}
+
+button.secondary:hover:not(:disabled) {
+  background: #6f4e37;
+  color: #fff;
+}
+
+input, textarea, select {
+  font-family: inherit;
+  font-size: 0.95rem;
+  padding: 0.55rem 0.75rem;
+  border: 1px solid #d4c5b3;
+  border-radius: 6px;
+  background: #fff;
+  width: 100%;
+}
+
+input:focus, textarea:focus, select:focus {
+  outline: none;
+  border-color: #6f4e37;
+  box-shadow: 0 0 0 3px rgba(111, 78, 55, 0.15);
+}
+
+.container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 1.5rem;
+}
+
+.card {
+  background: #fff;
+  border-radius: 10px;
+  padding: 1.25rem;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06);
+}
+
+.error {
+  color: #b3261e;
+  font-size: 0.85rem;
+  margin-top: 0.25rem;
+}
+
+.success {
+  color: #1b5e20;
+  font-size: 0.9rem;
+  margin-top: 0.5rem;
+}
+
+.muted {
+  color: #7a6a5b;
+  font-size: 0.85rem;
+}

@@ -1,0 +1,19 @@
+{
+  "name": "rw-api",
+  "version": "1.0.0",
+  "description": "Mock product review API",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "keywords": [
+    "products",
+    "reviews",
+    "rest"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

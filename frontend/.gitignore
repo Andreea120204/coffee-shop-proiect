@@ -1,0 +1,35 @@
+# Dependinte
+/node_modules
+
+# Build output
+/dist
+/tmp
+/out-tsc
+/bazel-out
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Sistem
+.DS_Store
+Thumbs.db
+
+# Loguri
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Angular
+.angular/cache
+.sass-cache/
+connect.lock
+coverage/
+libpeerconnection.log
+testem.log
+typings/
+
+# Variabile mediu locale
+.env
+.env.local
